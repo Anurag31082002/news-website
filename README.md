@@ -1,7 +1,20 @@
 # news-website
-# Getting Started with Create React App
-
+# This News-website in ReactJs.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![image](https://github.com/user-attachments/assets/b3717582-1301-4493-8299-4ff2324ce6bb)
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `Register for News API:`
+Go to News API and sign up to get your API key.
+https://newsapi.org/docs/endpoints/sources
+
+### `In the src directory of your project, create a .config file and add your API key:`
+NEWS_API_KEY=your_api_key_here
+BASE_URL=https://newsapi.org/v2
+COUNTRY: 'us'
 
 ## Available Scripts
 
@@ -12,8 +25,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+![image](https://github.com/user-attachments/assets/b4cc423e-3fe4-4d24-986f-b1ad8714ecd7)
+
 
 ### `npm test`
 
